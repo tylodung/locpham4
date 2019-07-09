@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://cdnimg.vietnamplus.vn/uploaded/zatmzy/2019_04_12/grieksebabydoornieuweivfmethodegeborenuitdriebiologischeouders.jpg' title="Ngự Y" tagline="Kỳ Kinh Bát Mạch.." />
+        <Header image='https://s3-ap-southeast-1.amazonaws.com/img.spiderum.com/sp-images/25dff180f88d11e78f673bd033826b1f.jpg' title="Thái Y" tagline="Hoàng Đế Nội Kinh.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
