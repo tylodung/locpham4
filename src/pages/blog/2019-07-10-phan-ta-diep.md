@@ -2,10 +2,10 @@
 templateKey: blog-post
 path: /phan-ta-diep
 title: Cây phan tả diệp
-image: 'https://suckhoetv.com/wp-content/uploads/2018/09/C%C3%B4ng-d%E1%BB%A5ng-c%E1%BB%A7a-c%C3%A2y-c%E1%BB%95-b%C3%ACnh.jpg' 
+image: 'https://namlimxanh.vn/wp-content/uploads/2018/10/csm9joodkr0.jpg' 
 tags:
   - Thuoc
-date: 2019-06-25T13:12:33.962Z
+date: 2019-07-10T13:12:33.962Z
 uev: 4.18.3
 description: Phan tả diệp chữa bệnh tao bón hiệu quả, phan tả diệp có tác dụng giải độc gan, sổ độc gan, phan tả diệp sử dụng thường kết hợp với ngũ vị tử chữa bệnh gan.
 ---

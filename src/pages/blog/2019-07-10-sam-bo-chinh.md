@@ -2,10 +2,10 @@
 templateKey: blog-post
 path: /sam-bo-chinh
 title: Sâm bố chính có tác dụng bổ không thua kem sâm hàn quốc
-image: 'https://suckhoetv.com/wp-content/uploads/2018/10/M%C3%B4-t%E1%BA%A3.jpg' 
+image: 'http://duoclieutoanquoc.com/upload/images/sam-bo-chinh.jpg' 
 tags:
   - Thuoc
-date: 2019-06-25T13:12:33.962Z
+date: 2019-07-10T13:12:33.962Z
 uev: 4.18.3
 description: Sâm bố chính có tác dụng bổ không thua kem sâm hàn quốc, sâm bổ chính được sử dụng nhiều trong các bài thuốc hay ngâm rượu để sử dụng rất hiệu quả.
 ---
@@ -52,7 +52,7 @@ Do việc cạo vỏ ngoài tốn nhiều công phu quá cho nên năm 1940. Vi�
 
 Sâm Bổ Chính có vị ngọt nhạt, có chất nhầy, tính bình; có tác dụng bổ mát, nhuận phế, dưỡng tâm, sinh tân dịch; sao với gạo thì tính ấm bổ tỳ vị, giúp tiêu hoá, thêm mạnh sức. Ở Trung Quốc, người ta xem rễ, lá như có tác dụng tư âm thanh nhiệt, bài nung bạt độc.
 
-3.1 Công dụng sâm bổ chính
+*3.1 Công dụng sâm bổ chính*
 
 Trước đây, Hải Thượng Lãn ông dùng rễ Sâm bố chính phối hợp với các thuốc khác để chữa bệnh ho, sốt nóng, gầy mòn.
 
@@ -60,7 +60,7 @@ Hiện nay, nhiều người dùng nó làm thuốc bổ, thông tiểu tiện, 
 
 Ở Trung Quốc, rễ và lá dùng chữa lao phổi, ho do phổi khô, sản hậu tiện bí, thần kinh suy nhược, mụn nhọt sưng lở. Ngày dùng 6-12g sắc uống, ngâm rượu hoặc tán bột uống.
 
-3.2 Các bài thuốc có sâm bố chính
+*3.2 Các bài thuốc có sâm bố chính*
 
 - Bổ khí huyết: Sâm Bổ Chính 30g, Hồi dầu 12g, Hoài sơn, Đương quy, Ý dĩ sao, đều 15g, sấy khô, tán bột làm viên với mật ong hay mạch nha, uống mỗi ngày 15-20g.
 
