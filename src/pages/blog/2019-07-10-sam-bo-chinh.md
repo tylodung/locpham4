@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /sam-bo-chinh
 title: Sâm bố chính có tác dụng bổ không thua kem sâm hàn quốc
-image: 'http://duoclieutoanquoc.com/upload/images/sam-bo-chinh.jpg' 
+image: 'https://i.ytimg.com/vi/73kT8PE4AZY/maxresdefault.jpg' 
 tags:
   - Thuoc
 date: 2019-07-10T13:12:33.962Z
