@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /destroy-actor-on-overlap
 title: Destroy Actor on Overlap
-image: http://thuocthang.com.vn/vnt_upload/File/Image/maxresdefault_3_12.jpg
+image: https://i1.wp.com/wikisuckhoe.com/wp-content/uploads/2017/07/cuc-tan.jpg?fit=600%2C300&ssl=1&resize=1280%2C720
 video: W-vP-tCQcDY
 tags: ["beginner"]
 uev: 4.18.3
