@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 const Nav = ( { isHome } ) => 
     <nav className="site-nav">
         <div className="site-nav-left">
-            <a className="site-nav-logo" href="/">Ngự Y</a>
+            <a className="site-nav-logo" href="/">Bác Sỹ</a>
             <ul className="nav" role="menu">
                 <li role="menuitem">
                     <Link to="/">

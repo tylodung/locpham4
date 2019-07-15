@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://i1.wp.com/www.vuivivu.com/wp-content/uploads/2019/04/Thu%E1%BB%91c-gi%E1%BA%A3i-%C4%91%E1%BB%99c-gan-tr%E1%BB%8B-men-gan-cao-vi%C3%AAm-v%C3%A0-x%C6%A1-gan-t%E1%BB%91t-nh%E1%BA%A5t-13.jpg?resize=1280%2C720&ssl=1' title="Bác Sỹ" tagline="Kỳ Kinh Bát Mạch.." />
+        <Header image='https://i1.wp.com/www.vuivivu.com/wp-content/uploads/2019/04/Thu%E1%BB%91c-gi%E1%BA%A3i-%C4%91%E1%BB%99c-gan-tr%E1%BB%8B-men-gan-cao-vi%C3%AAm-v%C3%A0-x%C6%A1-gan-t%E1%BB%91t-nh%E1%BA%A5t-13.jpg?resize=1280%2C720&ssl=1' title="Bác Sỹ" tagline="Những bài thuốc hay.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
